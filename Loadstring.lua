@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Uvxtq/Scripts/main/games/Universal.lua')))();
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Uvxtq/Scripts/main/games/Universal.lua')))('Kaoru~#6438');
