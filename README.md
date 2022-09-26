@@ -1,2 +1,2 @@
 # Scripts
-My Obfuscated scripts
+My *Free* Obfuscated scripts
